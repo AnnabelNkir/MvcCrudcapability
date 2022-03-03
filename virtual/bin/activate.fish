@@ -29,7 +29,7 @@ end
 # unset irrelevant variables
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/home/annabel/Documents/crudapp/CRUD/CRUD/virtual"
+set -gx VIRTUAL_ENV "/home/annabel/Documents/Assignment/MVC_crudcapability/CRUD/virtual"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
